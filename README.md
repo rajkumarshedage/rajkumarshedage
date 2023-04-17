@@ -1,8 +1,17 @@
 # Hi, I'm Rajkumar Shedage 👋
 
-## About Me
+Aspiring data scientist with 6 months of internship experience in data science. Skilled in Python programming, data pre-processing, machine learning algorithms, and natural language processing.
 
-I'm a data science enthusiast with a passion for using data to drive informed decisions. I'm currently looking for a challenging career opportunity in data science or data analytics where I can apply my skills and knowledge to create outstanding solutions.
+📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/r-shedage-48bb20266/) | [GitHub](https://github.com/rajkumarshedage) |  rajkumarshedage1@gmail.com
+
+## About Me:
+
+- 🎓 As an aspiring data scientist, I completed my BE in Pune University in 2019 and gained 6 months of internship experience in data science.
+- 💻 I have a strong foundation in Python programming, data pre-processing, machine learning algorithms, and natural language processing.
+- 🛠️ I am proficient in various data science tools and libraries such as scikit-learn, pandas, NumPy, and AWS.
+- 🔍 I have completed personal projects in sentiment analysis, loan defaulter prediction, credit fraud detection, and insurance claim prediction.
+- 🌱 I am constantly learning and exploring new technologies and techniques to improve my data science expertise.
+- 🌟 Apart from work, my interests include reading, trekking, and listening to music.
 
 ## Work Experience
 
@@ -17,32 +26,4 @@ I'm a data science enthusiast with a passion for using data to drive informed de
 - Worked as a Quality Assurance Engineer at Suzlon, a wind turbine manufacturing company.
 - Conducted product testing and implemented quality assurance measures to improve product reliability and customer satisfaction.
 
-## Education
-
-- Bachelor of Engineering (BE) from Pune University, 2019
-- Higher Secondary Certificate (HSC) from MSB, 2015
-- Secondary School Certificate (SSC) from MSB, 2013
-
-## Skills
-
-- Programming languages: Python, SQL
-- Libraries: Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, SciPy
-- Data Pre-processing: EDA, PCA, cleaning, integration, reduction, and transformation
-- Machine Learning: Supervised/Unsupervised Algorithms, Ensemble Algorithms
-- NLP: TF-IDF, Bag of Words, Word2Vec, NLTK, Spacy, Gensim, Textblob
-- Deep Learning: ANN, CNN, RNN, Tensorflow, Keras
-- AWS Cloud: EC2, S3 Bucket, Amazon SageMaker
-- Web Stack: Flask, Postman
-
-## Personal Projects
-
-- Case study on sentiment analysis: Analyzed the sentiments of the writer whether they are positive or negative.
-- Case study on loan defaulter prediction: Predicted loan defaulters using machine learning models.
-- Case study on credit fraud detection: Detected fraudulent transactions using machine learning models.
-- Case study on insurance claim prediction: Predicted insurance fraud claims using machine learning models.
-
-## Contact Me
-
-- Email: rajkumarshedage1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rajkumar-shedage-07656b1b7/
-- Phone: +91 9975218539
+### Quality Control Engineer - Drushti Polymers (Sep 2019 - Sep 2020)
