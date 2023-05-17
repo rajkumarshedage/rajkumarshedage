@@ -15,12 +15,6 @@ Aspiring data scientist with 6 months of internship experience in data science. 
 
 ## Work Experience
 
-### Flera Technologies - Data Science Intern (July 2022 - Dec 2022)
-
-- Conducted data analysis and built machine learning models using Python and scikit-learn.
-- Worked on various case studies such as sentiment analysis, loan defaulter prediction, credit fraud detection, and insurance claim prediction.
-- Developed and deployed a machine learning model to predict the success of bank telemarketing, achieving an accuracy of 87% and a recall of 88%.
-
 ### Quality Assurance Engineer - Suzlon (Sep 2020 - May 2022)
 
 - Worked as a Quality Assurance Engineer at Suzlon, a wind turbine manufacturing company.
