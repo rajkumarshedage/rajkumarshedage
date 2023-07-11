@@ -1,8 +1,8 @@
 # Hi, I'm Rajkumar Shedage 👋
 
-Aspiring data scientist with 6 months of internship experience in data science. Skilled in Python programming, data pre-processing, machine learning algorithms, and natural language processing.
+Aspiring data scientist, Skilled in Python programming, data pre-processing, machine learning algorithms, and natural language processing.
 
-📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/r-shedage-48bb20266/) | [GitHub](https://github.com/rajkumarshedage) |  rajkumarshedage1@gmail.com
+📫 **Get in touch:** https://www.linkedin.com/in/rajkumar-shedage-815014280/ | [GitHub](https://github.com/rajkumarshedage) |  rajkumarshedage1@gmail.com
 
 ## About Me:
 
